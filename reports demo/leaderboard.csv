@@ -1,0 +1,16 @@
+repo,stars_now,gain_7d,pct_7d,forks_gain_7d,stars_then,gain_30d,pct_30d,forks_gain_30d,category,issues_per_1k_stars,days_since_push,days_since_release,momentum
+pandas-dev/pandas,47061,328,0.7,11,45608,1453,3.19,41,processing,27.6,0,40,0.97
+apache/spark,43214,242,0.56,7,41832,1382,3.3,43,processing,29.4,0,11,0.75
+pola-rs/polars,31627,230,0.73,7,30621,1006,3.29,48,processing,29.3,0,33,0.98
+duckdb/duckdb,23057,83,0.36,13,22649,408,1.8,50,processing,31.1,0,8,0.87
+apache/airflow,39088,81,0.21,9,38735,353,0.91,35,orchestration,30.5,0,34,0.98
+trinodb/trino,11065,68,0.62,8,10721,344,3.21,46,processing,33.9,0,8,0.85
+dagster-io/dagster,11983,72,0.6,9,11662,321,2.75,54,orchestration,29.5,0,28,0.96
+apache/flink,24955,66,0.27,14,24649,306,1.24,51,processing,33.1,0,34,0.92
+PrefectHQ/prefect,16683,58,0.35,12,16435,248,1.51,39,orchestration,35.2,0,5,1.0
+apache/kafka,28741,47,0.16,12,28493,248,0.87,46,ingestion,30.6,0,30,0.81
+great-expectations/great_expectations,10730,53,0.5,14,10483,247,2.36,42,data quality,32.1,0,30,0.92
+dbt-labs/dbt-core,10164,64,0.63,8,9931,233,2.35,45,transformation,34.2,0,8,1.18
+airbytehq/airbyte,15578,33,0.21,11,15388,190,1.23,49,ingestion,32.2,0,15,0.74
+delta-io/delta,7353,35,0.48,8,7216,137,1.9,56,storage,31.1,0,24,1.09
+apache/iceberg,6336,30,0.48,12,6203,133,2.14,51,storage,34.6,0,4,0.97
